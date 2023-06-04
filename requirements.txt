@@ -1,0 +1,12 @@
+ipywidgets
+jupyterlab_widgets
+jupyterlab-language-pack-ru-RU
+jupyterlab-git
+jupyterlab-filesystem-access
+jupyter-resource-usage
+torch 
+torchvision 
+torchaudio
+tensorflow
+transformers[torch]
+
